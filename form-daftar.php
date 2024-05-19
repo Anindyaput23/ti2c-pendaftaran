@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Formulir Pendaftaran Siswa Baru </title>
+<?php include('header.html'); ?>
     <link rel="stylesheet" type="text/css" href="vendor/twbs/bootstrap/dist/css/bootstrap.min.css">
     <style>
         
@@ -103,3 +103,4 @@
     <script src="vendor/twbs/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
 </body>
 </html>
+<?php include('footer.html'); ?>

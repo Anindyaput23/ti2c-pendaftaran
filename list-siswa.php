@@ -1,5 +1,5 @@
 <?php include("koneksi.php"); ?>
-
+<?php include('header.html'); ?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -99,3 +99,4 @@
     <script src="vendor/twbs/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
 </body>
 </html>
+<?php include('footer.html'); ?>

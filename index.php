@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+<?php include('header.html'); ?>
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -108,3 +109,4 @@
 <script src="vendor/twbs/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
 </body>
 </html>
+<?php include('footer.html'); ?>
